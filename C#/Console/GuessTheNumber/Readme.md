@@ -6,6 +6,7 @@ The program will general random number that you must guess. The program also cal
 
 ## Technical details
 
+* Program will load minimum and maximum number from which the random number will be generated from Application Configuration file (https://msdn.microsoft.com/cs-cz/library/ms184658.aspx)
 * use Random class to generate the number
 * validate user's input (only integer numbers are allowed)
 * when the difference between user's number and to be guessed number 
