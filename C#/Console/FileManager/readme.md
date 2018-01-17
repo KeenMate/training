@@ -1,12 +1,12 @@
-#C# training
+# C# training
 
-#**File Creator**
+# **File Creator**
 
-##Description
+## Description
 
 This program will be creating folders containing txt files with their own paths.
 
-##Technical details
+## Technical details
 
 * First: Program will ask you to enter the path.
 * Second: Program will ask how many folders you want to make.
@@ -19,14 +19,14 @@ Txt files will be called like this ("000.txt","001.txt","002.txt" etc.)
 
 
 
-#**Basic File Operations**
+# **Basic File Operations**
 
-##Description
+## Description
 
 This program contains working menu.
     Menu helps you to work with files.
 
-##Technical details
+## Technical details
  
 Make program that will generate a menu.
 Menu contains
