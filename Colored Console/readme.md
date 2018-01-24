@@ -9,10 +9,10 @@ Under year make a line.
 If there will be a leap-year then write it yellow colored.
 Every leap-year February will be light blue.
 
-* Spring motnhs will be green
+* Spring months will be green
 * Summer months will be red
-* Fall motnhs will be oragne
-* Winter motnhs will be blue
+* Fall months will be oragne
+* Winter months will be blue
 
 
 
