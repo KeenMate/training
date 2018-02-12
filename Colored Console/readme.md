@@ -11,7 +11,7 @@ Every leap-year February will be light blue.
 
 * Spring months will be green
 * Summer months will be red
-* Fall months will be oragne
+* Autumn months will be orange
 * Winter months will be blue
 
 
