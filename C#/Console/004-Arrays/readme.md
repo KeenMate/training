@@ -1,4 +1,4 @@
-## Array
+## Colored matrix
 
 ## Description
 
@@ -10,6 +10,8 @@ On the last line of your console aplication ask user for a number by which you w
 
 For example when user enters number 5 it will divide the numbers into 4 groups 0 to 4, 5 to 9, 10 to 14 and 15 to 20. The color of each group responds to ConsoleColor enumeration. For example first group will be black, second group will be blue, third group will be cyan and forth group will be dark blue.
 
+If user has not provided the number yet, display the numbers in default color.
+
 Redraw the already displayed array matrix as well as the last line question everytime user enters a new number.
 
 ## Technical details
@@ -17,7 +19,7 @@ Redraw the already displayed array matrix as well as the last line question ever
 * Understand the enumerations (https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/enumeration-types)
 * Arrays (https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/multidimensional-arrays)
 * Use System.ConsoleColor (to change colors)
-* Use System.Console.Write (to write on exact position)
+* Use System.Console.Write and System.Console.SetCursorPosition to set cursor at exact position
 * Use System.Random (to generate numbers)
 
 
