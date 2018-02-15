@@ -4,12 +4,13 @@
 
 Ask user for a number of rows and columns. For these numbers create two-dimensional array with specified number of columns and rows of which each cell contains a random number betwen from 0 to 20. 
 
-Display the array matrix the in center of your console application.
+Display the array matrix in the center of your console application.
 
-On the last line of your console aplication ask user for a number by which you will divide the range 0 to 20 and color the numbers accordingly. 
+On the last line of your console aplication ask user for a number by which you will divide the range 0 to 20 and color the numbers in the already displayed matrix accordingly.
+
 For example when user enters number 5 it will divide the numbers into 4 groups 0 to 4, 5 to 9, 10 to 14 and 15 to 20. The color of each group responds to ConsoleColor enumeration. For example first group will be black, second group will be blue, third group will be cyan and forth group will be dark blue.
 
-Redraw the array matrix as well as the last line question everytime user enters a new number.
+Redraw the already displayed array matrix as well as the last line question everytime user enters a new number.
 
 ## Technical details
 
