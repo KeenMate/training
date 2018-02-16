@@ -9,7 +9,7 @@ Ask user for a number how strong the trunk will be. Whatever number user's enter
 The color of /\ is green, color of * is light green and trunk color is brown.
 
 Then display a tree like this
-								
+```	
 								**
 							   ****
 								II
@@ -40,7 +40,7 @@ Then display a tree like this
 							  IIIIII    
 							  IIIIII   
 							  IIIIII
-							  
+```						  
 ## Technical detail
 - No special class/method is necessary, you should know already everything you need
 
