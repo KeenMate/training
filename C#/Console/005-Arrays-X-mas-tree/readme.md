@@ -23,19 +23,19 @@ Then display a tree like this
 							*/\IIII/\*
 						       *//\IIII/\\*
 						      */\/\IIII/\/\*
-						 *//\/\IIII/\/\\*
-						*/\/\/\IIII/\/\/\*
+						     *//\/\IIII/\/\\*
+						    */\/\/\IIII/\/\/\*
 							  IIIIII
 							 *IIIIII*
 							*/IIIIII\*
-						   */\IIIIII/\*
-						  *//\IIIIII/\\*
-						 */\/\IIIIII/\/\*
-						*//\/\IIIIII/\/\\*
-					   */\/\/\IIIIII/\/\/\*
-					  *//\/\/\IIIIII/\/\/\\*
-					 */\/\/\/\IIIIII/\/\/\/\*
-						      IIIIII
+						       */\IIIIII/\*
+						      *//\IIIIII/\\*
+						     */\/\IIIIII/\/\*
+						    *//\/\IIIIII/\/\\*
+					           */\/\/\IIIIII/\/\/\*
+					          *//\/\/\IIIIII/\/\/\\*
+					         */\/\/\/\IIIIII/\/\/\/\*
+						          IIIIII
 							  IIIIII
 							  IIIIII    
 							  IIIIII   
