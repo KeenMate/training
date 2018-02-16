@@ -4,7 +4,7 @@
 
 Display a colorful christmas tree in a console application in ASCII characters.
 
-Ask user for a number how strong the trunk will be. Whatever number user's enter defines how many branches there is. For example when user enters trunk width as 3, the branch size will be 4, meaning four full "/\" at the bottom branch.
+Ask user for a number how strong the trunk will be. Whatever number user's enter defines how many branches there is. For example when user enters trunk width as 3, the branch size will be 4, meaning four full "/\\" at the bottom branch.
 
 The color of /\ is green, color of * is light green and trunk color is brown.
 
