@@ -10,19 +10,19 @@ The color of /\ is green, color of * is light green and trunk color is brown.
 
 Then display a tree like this
 ```	
-								**
+							    **
 							   ****
-								II
+						            II
 							   *II*
 							  */II\*
 							 */\II/\*
 							*//\II/\\*
-						   */\/\II/\/\*
+						       */\/\II/\/\*
 							  *IIII*
 							 */IIII\*
 							*/\IIII/\*
-						   *//\IIII/\\*
-						  */\/\IIII/\/\*
+						       *//\IIII/\\*
+						      */\/\IIII/\/\*
 						 *//\/\IIII/\/\\*
 						*/\/\/\IIII/\/\/\*
 							  IIIIII
