@@ -17,7 +17,7 @@ Trainings are somewhat in the order we think you should learn specific programmi
 - Read the description, technical details and sometimes hints carefully
 - Try not to over do it, stay on the level of the training. For example, yes you could of course use Linq's *ForEach* but use simple *for* if you are asked to do so
 - Do you think you are done? Think again and try to reduce your code to minimum (and think about the performance as well)
-- Follow the naming conventations for example https://msdn.microsoft.com/library/ms229045(v=vs.100).aspx
+- Follow the naming conventions for example https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/general-naming-conventions
 - And remember: **Fight, fight, fight and when you feel like giving up fight twice more.** You will be rewarded with self-esteem
 
 At the moment there are only C# trainings but we will add some Javascript as well.
