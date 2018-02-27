@@ -31,8 +31,10 @@ Create a game simulating drunken monk journey from his favorite pub to his monas
 - Top/Bottom margin in character is - and is Brown
 - Left/Right margin character is | and is Brown
 
-## Technical detail
+## Technical details
 - Turn off console cursor
+- Remember how to place cursor somewhere on the screen
+- You can store people in a System.Collections.List to get more familiar with it
 - Use infinite loop like do/while(true) and exit the loop with user of break, continue or return
 - You will probably need to remember your last steps to be able to go back when the player is pushed by a person
 
