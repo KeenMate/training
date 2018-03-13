@@ -28,14 +28,14 @@ Create a game simulating drunken monk journey from his favorite pub to his monas
  - When player collides with another person increment the number of collisions and update the "Collisions:" label
 - Player character is H and is White
 - Person character is ß and is Blue
-- Top/Bottom margin in character is - and is Brown
-- Left/Right margin character is | and is Brown
+- Top/Bottom margin in character is '-' and is Brown
+- Left/Right margin character is '|' and is Brown
 
 ## Technical details
 - Turn off console cursor
 - Remember how to place cursor somewhere on the screen
 - You can store people in a System.Collections.List to get more familiar with it
-- Use infinite loop like do/while(true) and exit the loop with user of break, continue or return
+- Use infinite loop like do/while(true) and exit the loop with use of break, continue or return
 - You will probably need to remember your last steps to be able to go back when the player is pushed by a person
 
 ## Focus
