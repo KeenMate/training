@@ -9,6 +9,7 @@ Under last day of each year display a line.
 If there will be a leap-year then write it yellow colored.
 Every leap-year February will be blue.
 
+For the rest of the years apply colors as follow:
 * Spring months will be Green
 * Summer months will be Red
 * Fall motnhs will be Purple
