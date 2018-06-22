@@ -2,7 +2,7 @@
 
 ## Description
 
-The program will general random number that you must guess. The program also calculate how many attempts did it take for you to guess the number.
+The program will generate an random integer number that user has to guess. The program also counts how many attempts did it take for user to guess the number.
 
 ## Technical details
 
@@ -10,6 +10,6 @@ The program will general random number that you must guess. The program also cal
 * use Random class to generate the number
 * validate user's input (only integer numbers are allowed)
 * when the difference between user's number and to be guessed number 
- * is more then 20 (in absolute value) display a little bit more/less 
- * is more then 40 (in absolute value) display far more/less
-* after the user guessed the number display statistics 
+ * is more then 20 (in absolute value) display text "little bit more/less" 
+ * is more then 40 (in absolute value) display text "far more/less"
+* after the user guessed the number display the amount of attempts 
